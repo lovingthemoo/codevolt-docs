@@ -40,7 +40,7 @@ The Information Security Manager coordinates:
 
 ## 4. Business Impact Analysis
 
-Critical business processes are identified and analyzed to determine:
+Critical business processes are identified and analysed to determine:
 - Recovery Time Objectives (RTO)
 - Recovery Point Objectives (RPO)
 - Resource requirements for recovery

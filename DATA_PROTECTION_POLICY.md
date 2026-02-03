@@ -27,7 +27,7 @@ CodeVolt collects personal data in accordance with these principles:
 - Names or physical addresses
 - Phone numbers
 - Payment information
-- Browsing behavior or tracking data
+- Browsing behaviour or tracking data
 - Third-party profile information
 
 ---
