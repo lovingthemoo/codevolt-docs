@@ -11,7 +11,7 @@
 
 ## 1. Purpose
 
-This policy establishes governance for the protection of personal data throughout its lifecycle in compliance with data protection legislation and organizational requirements.
+This policy establishes governance for the protection of personal data throughout its lifecycle in compliance with data protection legislation and organisational requirements.
 
 ---
 
@@ -62,7 +62,7 @@ CodeVolt respects and facilitates the exercise of data subject rights:
 - **Right to be informed** — Clear privacy notices provided
 - **Right of access** — Subject access requests processed
 - **Right to rectification** — Data accuracy maintained
-- **Right to erasure** — Deletion requests honored where applicable
+- **Right to erasure** — Deletion requests honoured where applicable
 - **Right to restrict processing** — Limitations applied as requested
 - **Right to data portability** — Data provided in structured formats
 - **Right to object** — Objections to processing considered
@@ -72,7 +72,80 @@ Data subjects may exercise rights by contacting rook@codevolt.co.uk. Responses a
 
 ---
 
-## 6. Data Security
+## 6. Data Subject Access Request (DSAR) Process
+
+### 6.1 Submitting a Request
+
+Data subjects may submit a DSAR via:
+- **Email:** rook@codevolt.co.uk (Subject: "Data Subject Access Request")
+- **Online Form:** [Submit DSAR](https://codevolt.co.uk/data-request/) (available on website)
+- **Post:** Contact address available upon request
+
+### 6.2 Request Requirements
+
+To process a DSAR, the following is required:
+- Full name of the data subject
+- Email address used for subscription/service
+- Proof of identity (verification via email from the address in question)
+- Specific details of the request (access, deletion, rectification, etc.)
+
+### 6.3 Verification Process
+
+Before processing:
+- Identity verification required via email confirmation
+- For deletion requests: Email must originate from the address to be deleted
+- Additional verification may be requested if identity is uncertain
+
+### 6.4 Response Timeline
+
+| Stage | Timeline | Action |
+|-------|----------|--------|
+| Acknowledgement | Within 48 hours | Confirm receipt and verify identity |
+| Identity Verification | Within 7 days | Verify and confirm data subject identity |
+| Data Compilation | Within 21 days | Locate and compile all personal data |
+| Final Response | Within 30 days | Provide data or notify of any delays |
+
+**Note:** Complex requests may require up to 60 days with notification to the data subject.
+
+### 6.5 Information Provided
+
+DSAR responses include:
+- Confirmation that personal data is being processed
+- Categories of personal data held
+- Purposes of processing
+- Recipients or categories of recipients
+- Retention period or criteria
+- Data subject rights
+- Right to lodge a complaint with supervisory authority
+- Source of data (if not collected directly)
+- Existence of automated decision-making (if applicable)
+
+### 6.6 Format
+
+Data provided in:
+- Electronic format (PDF or machine-readable JSON) where possible
+- Secure method of transmission
+- Plain, understandable language
+
+### 6.7 Refusal Grounds
+
+Requests may be refused if:
+- Identity cannot be verified
+- Request is manifestly unfounded or excessive
+- Disclosure would harm another individual
+- Request relates to legal proceedings or investigations
+
+Refusals are documented with rationale and data subjects informed of right to complain.
+
+### 6.8 Fees
+
+- **Standard requests:** No fee
+- **Manifestly unfounded or excessive requests:** Administrative fee may apply
+- **Additional copies:** Reasonable fee based on administrative costs
+
+---
+
+## 7. Data Security
 
 Appropriate security measures protect personal data:
 - Encryption for data at rest and in transit
@@ -82,7 +155,7 @@ Appropriate security measures protect personal data:
 
 ---
 
-## 7. Data Retention
+## 8. Data Retention
 
 Personal data is retained only as long as necessary for:
 - The purposes for which it was collected
@@ -93,7 +166,7 @@ Retention periods are defined and reviewed periodically. Data is securely dispos
 
 ---
 
-## 8. Data Transfers
+## 9. Data Transfers
 
 Transfers of personal data outside the UK/EU are subject to:
 - Assessment of adequacy of protection
@@ -102,7 +175,7 @@ Transfers of personal data outside the UK/EU are subject to:
 
 ---
 
-## 9. Breach Notification
+## 10. Breach Notification
 
 Personal data breaches are subject to:
 - Immediate assessment and containment
@@ -112,7 +185,7 @@ Personal data breaches are subject to:
 
 ---
 
-## 10. Review
+## 11. Review
 
 This policy is reviewed:
 - At least annually
